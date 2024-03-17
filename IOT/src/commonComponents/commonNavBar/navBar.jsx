@@ -19,6 +19,15 @@ const NavBar = ()=>{
             <div className="slogan"><i>Connect.Create.Collaborate</i></div>
         </div>
 
+        <button className="home_button">HOME</button>
+        <button className="menu_buttons">ABOUT</button>
+        <button className="menu_buttons">SERVICES</button>
+        <button className="menu_buttons">BOOKING</button>
+        <button className="menu_buttons">CONTACT</button>
+
+        <button className="login_button">LOGIN</button>
+        <button className="signin_button">SIGN IN</button>
+
         </div> 
 
         </>

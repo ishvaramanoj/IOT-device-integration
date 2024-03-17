@@ -10,7 +10,7 @@
 }
 
 .logo_body{
-    background-color: orange;
+    /* background-color: orange; */
     background-image: url(../../assets/images/perauninew.png);
     width: 70px;
     height: 70px;
@@ -18,22 +18,85 @@
     margin-left: 10px;
 }
 .project_name{
-    background-color: crimson;
+    /* background-color: crimson; */
     height: 70px;
     margin-top: 5px;
     margin-left: 5px;
     width: 190px;
 }
 .project_name_one{
-    background-color: darkcyan;
+    /* background-color: darkcyan; */
     height: 25px;
     font-size: 22px;
 }
 .project_name_two{
-    background-color: peru;
+    /* background-color: peru; */
     height: 25px;
     font-size: 22px;
 }
 .slogan{
-    background-color: green;
+    /* background-color: green; */
+}
+.menu_buttons{
+    /* background-color: darkolivegreen; */
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.menu_buttons:hover{
+    background-color: #045D5D;
+    color: white;
+}
+.home_button{
+    /* background-color: darkolivegreen; */
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 130px;
+    border: none;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.home_button:hover{
+    background-color: #045D5D;
+    color: white;
+}
+
+.login_button{
+    /* background-color: palevioletred; */
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 60px;
+    border-width: 1px;
+    border-color: darkcyan;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.login_button:hover{
+    background-color: #045D5D;
+    color: white;
+    font-size: 20px;
+    transform: translateY(-3px);
+}
+.signin_button{
+    /* background-color: palevioletred; */
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-width: 1px;
+    border-color: darkcyan;
+    border-radius: 10px;
+    font-size: 17px;
+}
+.signin_button:hover{
+    background-color: #045D5D;
+    color: white;
+    font-size: 20px;
+    transform: translateY(-3px);
 }
