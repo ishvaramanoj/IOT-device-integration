@@ -1,0 +1,13 @@
+.main_body_landing_page{
+    background-color: lightsalmon;
+    left: 0;
+    top: 0;
+   position: absolute;
+   width: 1522px;
+   height: 800px;
+   right: 0;
+}
+.navbar_container{
+    background-color: lightseagreen;
+    height: 80px;
+}
