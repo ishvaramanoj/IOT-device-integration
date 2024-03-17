@@ -1,0 +1,39 @@
+.navbar_body{
+    background-color: #EEEEEE;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 1537px;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo_body{
+    background-color: orange;
+    background-image: url(../../assets/images/perauninew.png);
+    width: 70px;
+    height: 70px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.project_name{
+    background-color: crimson;
+    height: 70px;
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 190px;
+}
+.project_name_one{
+    background-color: darkcyan;
+    height: 25px;
+    font-size: 22px;
+}
+.project_name_two{
+    background-color: peru;
+    height: 25px;
+    font-size: 22px;
+}
+.slogan{
+    background-color: green;
+}
