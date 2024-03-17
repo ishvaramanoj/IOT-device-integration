@@ -48,8 +48,9 @@
     font-size: 17px;
 }
 .menu_buttons:hover{
-    background-color: #045D5D;
-    color: white;
+    /* background-color: #045D5D; */
+    color: #008080;
+    font-size: 20px;
 }
 .home_button{
     /* background-color: darkolivegreen; */
@@ -62,8 +63,9 @@
     font-size: 17px;
 }
 .home_button:hover{
-    background-color: #045D5D;
-    color: white;
+    /* background-color: #045D5D; */
+    color: #008080;
+    font-size: 20px;
 }
 
 .login_button{
