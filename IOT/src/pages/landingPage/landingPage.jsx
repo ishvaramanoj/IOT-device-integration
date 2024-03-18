@@ -14,6 +14,17 @@ const LandingPage = () =>{
         <NavBar/>
     </div>
 
+    <div className="body_intro">
+
+     <div className="body_intro_left">
+     left
+     </div>
+     <div className="body_intro_right">
+     right
+     </div>
+
+    </div>
+
    </div>
 
         </>

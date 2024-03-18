@@ -3,11 +3,28 @@
     left: 0;
     top: 0;
    position: absolute;
-   width: 1522px;
+   width: 1520px;
    height: 750px;
    right: 0;
 }
 .navbar_container{
     /* background-color: lightseagreen; */
     height: 80px;
+}
+.body_intro{
+    background-color: peru;
+    height: 500px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.body_intro_left{
+    background-color: crimson;
+    width: 650px;
+}
+
+
+.body_intro_right{
+    background-color: darkcyan;
+    width: 650px;
 }
